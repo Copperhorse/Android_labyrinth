@@ -1,35 +1,15 @@
 # Labyrinth
+### Created for Mobile Application Development. Taught by sir waleed.
+Roll number: c0sc221102034
+Name: Muhammad AHmad Siddiqui
+Class: Datascience 5A.
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+### assets used: 
+- skins for buttons was created using Skincomposer, plain james template.
+- the back ground music was from: https://pixabay.com/music/video-games-3-cream-soda-cute-bgm-271159/
+- reference for collision detection was from: https://youtu.be/AL92LrbDNY0?si=sNTAIttMwMvnwhR9.
+- template for the project was created using libgdx. a library useful for creating 2D and 3D games.
+- I could have used Kotlin with libgdx, however i refrained to do so as i am more accustomed to using java instead of kotlin.
 
-This project was generated with a template including simple application launchers and a main class extending `Game` that sets the first screen.
 
-## Platforms
-
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
-- `android`: Android mobile platform. Needs Android SDK.
-
-## Gradle
-
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
-
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `android:lint`: performs Android project validation.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
-
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+- Edit and change the repository however you like. <s> I can not care less <s>
