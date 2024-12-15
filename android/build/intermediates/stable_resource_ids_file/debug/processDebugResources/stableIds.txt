@@ -1,0 +1,8 @@
+io.github.some_example_name:style/GdxTheme = 0x7f050000
+io.github.some_example_name:string/app_name = 0x7f040000
+io.github.some_example_name:mipmap/ic_launcher_round = 0x7f030001
+io.github.some_example_name:mipmap/ic_launcher = 0x7f030000
+io.github.some_example_name:drawable/ic_launcher_foreground = 0x7f020001
+io.github.some_example_name:drawable/ic_launcher = 0x7f020000
+io.github.some_example_name:color/ic_launcher_background = 0x7f010001
+io.github.some_example_name:color/ic_background_color = 0x7f010000

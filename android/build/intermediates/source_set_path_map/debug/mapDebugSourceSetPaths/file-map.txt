@@ -1,0 +1,7 @@
+io.github.some_example_name.android-pngs-0 /home/copper/AndroidStudioProjects/project/android/build/generated/res/pngs/debug
+io.github.some_example_name.android-resValues-1 /home/copper/AndroidStudioProjects/project/android/build/generated/res/resValues/debug
+io.github.some_example_name.android-packageDebugResources-2 /home/copper/AndroidStudioProjects/project/android/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+io.github.some_example_name.android-packageDebugResources-3 /home/copper/AndroidStudioProjects/project/android/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+io.github.some_example_name.android-debug-4 /home/copper/AndroidStudioProjects/project/android/build/intermediates/merged_res/debug/mergeDebugResources
+io.github.some_example_name.android-android-5 /home/copper/AndroidStudioProjects/project/android/res
+io.github.some_example_name.android-debug-6 /home/copper/AndroidStudioProjects/project/android/src/debug/res

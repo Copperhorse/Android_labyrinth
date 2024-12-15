@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.github.some_example_name.android-pngs-0:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "io.github.some_example_name.android-pngs-0:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "io.github.some_example_name.android-android-5:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.github.some_example_name.android-pngs-0:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "io.github.some_example_name.android-android-5:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "io.github.some_example_name.android-android-5:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "io.github.some_example_name.android-android-5:/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "io.github.some_example_name.android-pngs-0:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.github.some_example_name.android-pngs-0:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "io.github.some_example_name.android-pngs-0:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "io.github.some_example_name.android-android-5:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "io.github.some_example_name.android-android-5:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.github.some_example_name.android-debug-4:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "io.github.some_example_name.android-pngs-0:/drawable-mdpi/ic_launcher_foreground.png"
+    }
+]
